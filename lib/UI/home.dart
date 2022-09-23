@@ -25,7 +25,7 @@ class _HomePageState extends State<HomePage> {
             Column(
               children: [
                 const Text(
-                  "Welcome Testing",
+                  "Welcome",
                   style: TextStyle(fontSize: 40.0, fontWeight: FontWeight.bold),
                 ),
                 const SizedBox(
